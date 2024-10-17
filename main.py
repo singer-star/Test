@@ -1,2 +1,1 @@
-print("test python")
-print("test python twice")
+print("test trans from internet to local")
